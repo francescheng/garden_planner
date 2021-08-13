@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  spacing: 1
+  sun: 1
+  watering: 1
+  soil: MyString
+
+two:
+  name: MyString
+  spacing: 1
+  sun: 1
+  watering: 1
+  soil: MyString
